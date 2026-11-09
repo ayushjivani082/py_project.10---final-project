@@ -7,10 +7,9 @@ Python
 
 
 
-video link :
 
 
-repositories link :https://github.com/ayushjivani082/py_project.10---final-project/tree/7f1a3cef736289d9ac4df190ea3ed1873d9a60d9/final%20project
+https://github.com/ayushjivani082/py_project.10---final-project/tree/7f1a3cef736289d9ac4df190ea3ed1873d9a60d9/final%20project
 
 
 Python Data Analysis – 5 Final Projects

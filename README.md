@@ -6,6 +6,13 @@ Ayush Jivani
 Python
 
 
+
+video link :
+
+
+repositories link :
+
+
 Python Data Analysis – 5 Final Projects
 
 Student Project Collection
